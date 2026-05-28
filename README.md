@@ -230,4 +230,4 @@ spring.jpa.hibernate.ddl-auto=none
 
 ## Autores
 
-Desenvolvido por **Pedro Henrique Santos de Pontes** e **Artur Crispim de Andrade** para a disciplina de Banco de Dados II.
+Desenvolvido por **Pedro Henrique Santos de Pontes** e **Artur Crispim de Andrade** para a disciplina de **Banco de Dados II**.
